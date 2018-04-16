@@ -1,0 +1,45 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "bebfb1ef-0a6b-4602-8b7e-eb0410bb8b00"
+  "atom-easy-jsdoc":
+    useReturns: true
+  "atom-material-ui":
+    colors:
+      abaseColor: "#5c6bc0"
+      predefinedColor: "Indigo"
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    autoIndentOnPaste: false
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "5d88bcf8-78c2-d897-176a-95655d1de8c6"
+  "linter-ui-default": {}
+  "markdown-themeable-pdf":
+    codeHighlightingTheme: "github.css"
+    enableCustomFooter: false
+    enableCustomHeader: false
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+      selection: true
+      selectionDecorationsZIndex: 0
+  "minimap-selection":
+    highlightCursorsLines: true
+  welcome:
+    showOnStartup: false

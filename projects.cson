@@ -1,0 +1,59 @@
+[
+  {
+    title: "UJET Server"
+    group: "UJET"
+    paths: [
+      "/Users/daniel/Sources/UJET/ujet-server"
+      "/Users/daniel/Sources/UJET/ujet"
+    ]
+  }
+  {
+    title: "UJET Omnichannel"
+    group: "UJET"
+    paths: [
+      "/Users/daniel/Sources/UJET/omnichannel"
+    ]
+  }
+  {
+    title: "UJET Web SDK"
+    group: "UJET"
+    paths: [
+      "/Users/daniel/Sources/UJET/ujet-web-sdk"
+      "/Users/daniel/Sources/UJET/ujet-web-sdk-examples"
+      "/Users/daniel/Sources/UJET/ujet-token-issuer"
+      "/Users/daniel/Sources/UJET/ujet-web-sdk-tester"
+      "/Users/daniel/Sources/UJET/ujet-web-sdk-proactive"
+      "/Users/daniel/Sources/UJET/ujet-web-sdk-loadtest"
+    ]
+  }
+  {
+    title: "UJET iOS SDK"
+    group: "UJET"
+    paths: [
+      "/Users/daniel/Sources/UJET/ujet-ios-sdk"
+      "/Users/daniel/Sources/UJET/ujet-ios-sdk-example"
+    ]
+  }
+  {
+    title: "UJET Android SDK"
+    group: "UJET"
+    paths: [
+      "/Users/daniel/Sources/UJET/ujet-android-sdk"
+      "/Users/daniel/Sources/UJET/ujet-android-sdk-example"
+    ]
+  }
+  {
+    title: "UJET Zendesk"
+    group: "UJET"
+    paths: [
+      "/Users/daniel/Sources/UJET/ujet-zendesk"
+    ]
+  }
+  {
+    title: "UJET Externals"
+    group: "UJET"
+    paths: [
+      "/Users/daniel/Sources/UJET/ujet-externals"
+    ]
+  }
+]
