@@ -1,10 +1,16 @@
 [
   {
+    title: "UJET"
+    group: "UJET"
+    paths: [
+      "/Users/daniel/Sources/UJET/ujet"
+    ]
+  }
+  {
     title: "UJET Server"
     group: "UJET"
     paths: [
       "/Users/daniel/Sources/UJET/ujet-server"
-      "/Users/daniel/Sources/UJET/ujet"
     ]
   }
   {
@@ -20,26 +26,21 @@
     paths: [
       "/Users/daniel/Sources/UJET/ujet-web-sdk"
       "/Users/daniel/Sources/UJET/ujet-web-sdk-examples"
-      "/Users/daniel/Sources/UJET/ujet-token-issuer"
       "/Users/daniel/Sources/UJET/ujet-web-sdk-tester"
-      "/Users/daniel/Sources/UJET/ujet-web-sdk-proactive"
-      "/Users/daniel/Sources/UJET/ujet-web-sdk-loadtest"
     ]
   }
   {
-    title: "UJET iOS SDK"
+    title: "UJET Externals"
     group: "UJET"
     paths: [
-      "/Users/daniel/Sources/UJET/ujet-ios-sdk"
-      "/Users/daniel/Sources/UJET/ujet-ios-sdk-example"
+      "/Users/daniel/Sources/UJET/ujet-externals"
     ]
   }
   {
-    title: "UJET Android SDK"
+    title: "UJET Token Issuer"
     group: "UJET"
     paths: [
-      "/Users/daniel/Sources/UJET/ujet-android-sdk"
-      "/Users/daniel/Sources/UJET/ujet-android-sdk-example"
+      "/Users/daniel/Sources/UJET/ujet-token-issuer"
     ]
   }
   {
@@ -50,10 +51,10 @@
     ]
   }
   {
-    title: "UJET Externals"
+    title: "UJET Salesforce"
     group: "UJET"
     paths: [
-      "/Users/daniel/Sources/UJET/ujet-externals"
+      "/Users/daniel/Sources/UJET/ujet-salesforce"
     ]
   }
 ]
