@@ -1,10 +1,10 @@
 Sublime-Style-Column-Selection@1.7.4
 asciidoc-preview@2.12.1
-atom-beautify@0.32.5
+atom-beautify@0.33.1
 atom-easy-jsdoc@4.12.5
 atom-material-syntax@1.0.8
 atom-material-ui@2.1.3
-atom-typescript@12.6.2
+atom-typescript@12.6.3
 busy-signal@1.4.3
 highlight-selected@0.14.0
 intentions@1.1.5
@@ -14,7 +14,7 @@ language-vue@0.23.1
 linter@2.2.0
 linter-ui-default@1.7.1
 markdown-themeable-pdf@1.2.1
-minimap@4.29.8
+minimap@4.29.9
 minimap-bookmarks@0.4.2
 minimap-find-and-replace@4.5.2
 minimap-git-diff@4.3.1
@@ -22,6 +22,6 @@ minimap-highlight-selected@4.6.1
 minimap-pigments@0.2.2
 minimap-selection@4.5.0
 pigments@0.40.2
-pretty-json@2.0.1
+pretty-json@2.0.3
 project-manager@3.3.6
 
