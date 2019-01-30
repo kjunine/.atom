@@ -16,7 +16,6 @@
     ]
   editor:
     autoIndentOnPaste: false
-    fontSize: 13
     showIndentGuide: true
     showInvisibles: true
   "exception-reporting":

@@ -14,6 +14,13 @@
     ]
   }
   {
+    title: "UJET Client"
+    group: "UJET"
+    paths: [
+      "/Users/daniel/Sources/UJET/ujet-client"
+    ]
+  }
+  {
     title: "UJET Agent Widget"
     group: "UJET"
     paths: [
