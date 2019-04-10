@@ -20,7 +20,11 @@
     showInvisibles: true
   "exception-reporting":
     userId: "5d88bcf8-78c2-d897-176a-95655d1de8c6"
-  "linter-ui-default": {}
+  "linter-eslint":
+    disabling: {}
+    global: {}
+  "linter-ui-default":
+    showPanel: true
   "markdown-themeable-pdf":
     codeHighlightingTheme: "github.css"
     enableCustomFooter: false

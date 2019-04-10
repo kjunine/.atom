@@ -71,4 +71,12 @@
       "/Users/daniel/Sources/UJET/ujet-salesforce"
     ]
   }
+  {
+    title: "UJET Infrastructure"
+    group: "UJET"
+    paths: [
+      "/Users/daniel/Sources/UJET/ujet-infrastructure-live"
+      "/Users/daniel/Sources/UJET/ujet-infrastructure-modules"
+    ]
+  }
 ]
